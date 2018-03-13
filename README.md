@@ -44,11 +44,14 @@ An unorganized list of useful stuff.
 * [Sketch plugins for devs](https://codegeekz.com/15-best-sketch-plugins-for-developers/)
 * [Plexels](https://www.pexels.com/) - Free stock photos
 * [Icon Drop ($)](https://iconscout.com/icondrop) - Sketch Icons
+* [Material Design](https://material.io/guidelines/#) - Google's guidelines for design
+* [Materialize CSS](http://materializecss.com) - 'A modern responsive front-end framework based on Material Design'
 <!-- * []() - Description -->
 
 ## Cool stuff
 * [Animated Login Avatar](https://codepen.io/dsenneff/pen/QajVxO?editors=1010) - animated yeti
 * [playcode.io](https://playcode.io/) - Code simulator built with Vue
+* [Popper JS](https://popper.js.org) - Positioning engine
 <!-- * []() - Description -->
 
 ## Lorem ipsum
