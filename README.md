@@ -7,13 +7,14 @@ An unorganized list of useful stuff.
 * [Quickstart: Compose and WordPress](https://docs.docker.com/compose/wordpress/) - Start a WP project in docker
 * [Leveling Up for Junior Developers](https://24ways.org/2017/levelling-up-for-junior-developers/) - Tips for basic skills
 * [CSS Grid](https://cssgrid.io/) - Easier arrangement
-* [Bootstrap Docs](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [Bootstrap Docs](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - HTML/CSS/JS framework for easy styling
 * [Sass](https://sass-lang.com/) - Upgraded css
 <!-- * []() - Description -->
 
 ## Learn
-* [Udemy](https://www.udemy.com/) - Fairly cheap courses
-* [Pluralsight](https://www.pluralsight.com/) - Online courses
+* [Udemy ($)](https://www.udemy.com/) - Fairly cheap courses - pay per course
+* [Pluralsight ($)](https://www.pluralsight.com/) - Subscription based online courses
+* [Lynda ($)](https://www.lynda.com/) - Subscription based online courses
 <!-- * []() - Description -->
 
 
@@ -29,13 +30,13 @@ An unorganized list of useful stuff.
 
 ## Animation
 * [GSAP Docs](https://greensock.com/docs) - Greensock Animation Platform
-* [AnimeJS Docs](http://animejs.com/documentation/)
+* [AnimeJS Docs](http://animejs.com/documentation/) - lightweight JS animation library
 * [Moving Letters](http://tobiasahlin.com/moving-letters/#) - Animate individual letters with AnimeJS
 <!-- * []() - Description -->
 
 ## WordPress
-* [WordPress Docs](https://codex.wordpress.org/)
-* [Advanced Custom Fields](https://www.advancedcustomfields.com/) - Suped-up wp posts
+* [WordPress Docs](https://codex.wordpress.org/) - docs for the CMS
+* [Advanced Custom Fields](https://www.advancedcustomfields.com/) - Suped-up WP posts
 <!-- * []() - Description -->
 
 ## Sketch/Design
@@ -47,7 +48,7 @@ An unorganized list of useful stuff.
 
 ## Cool stuff
 * [Animated Login Avatar](https://codepen.io/dsenneff/pen/QajVxO?editors=1010) - animated yeti
-* [playcode.io](https://playcode.io/)
+* [playcode.io](https://playcode.io/) - Code simulator built with Vue
 <!-- * []() - Description -->
 
 ## Lorem ipsum
