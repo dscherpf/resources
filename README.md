@@ -2,7 +2,7 @@
 An unorganized list of useful stuff.
 
 ## Basics
-* [MDN](https://developer.mozilla.org/en-US/) - Resources for developers, by developers.
+* [MDN](https://developer.mozilla.org/en-US/) - 'Resources for developers, by developers.'
 * [Docker](https://www.docker.com/)
 * [Quickstart: Compose and WordPress](https://docs.docker.com/compose/wordpress/) - Start a WP project in docker
 * [Leveling Up for Junior Developers](https://24ways.org/2017/levelling-up-for-junior-developers/) - Tips for basic skills
@@ -18,13 +18,13 @@ An unorganized list of useful stuff.
 
 
 ## JS Frameworks
-* [Angular Docs](https://angular.io/docs) - Description
-* [Vue JS Guide](https://vuejs.org/v2/guide/) - Description
+* [Angular Docs](https://angular.io/docs) - SPA Framework
+* [Vue JS Guide](https://vuejs.org/v2/guide/) - 'The Progressive JavaScript Framework '
 * [Gulp](https://gulpjs.com/) - 'Automate and enhance your workflow'
-* [Scroll Magic](http://scrollmagic.io/) - The javascript library for magical scroll interactions.
+* [Scroll Magic](http://scrollmagic.io/) - 'The javascript library for magical scroll interactions.'
 * [Scroll Reveal JS](https://scrollrevealjs.org/) - Easy scroll animations for web and mobile
-* [User Auth with Vue, ASP.NET, and Facebook Login](https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login) - Description
-* [Vue Examples](https://github.com/vuejs/awesome-vue) - Description
+* [User Auth with Vue, ASP.NET, and Facebook Login](https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login) - User authentication for vue.
+* [Vue Examples](https://github.com/vuejs/awesome-vue) - A long list of Vue projects
 <!-- * []() - Description -->
 
 ## Animation
