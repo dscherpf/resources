@@ -4,7 +4,6 @@ An unorganized list of useful stuff.
 ## Basics
 * [MDN](https://developer.mozilla.org/en-US/) - 'Resources for developers, by developers.'
 * [Docker](https://www.docker.com/)
-* [Quickstart: Compose and WordPress](https://docs.docker.com/compose/wordpress/) - Start a WP project in docker
 * [Leveling Up for Junior Developers](https://24ways.org/2017/levelling-up-for-junior-developers/) - Tips for basic skills
 * [CSS Grid](https://cssgrid.io/) - Easier arrangement
 * [Bootstrap Docs](https://getbootstrap.com/docs/4.0/getting-started/introduction/) - HTML/CSS/JS framework for easy styling
@@ -37,6 +36,7 @@ An unorganized list of useful stuff.
 ## WordPress
 * [WordPress Docs](https://codex.wordpress.org/) - docs for the CMS
 * [Advanced Custom Fields](https://www.advancedcustomfields.com/) - Suped-up WP posts
+* [Easy Docker + WP setup](https://medium.com/@tatemz/local-wordpress-development-with-docker-3-easy-steps-a7c375366b9) - A quick process that automatically downloads WP into your repo
 <!-- * []() - Description -->
 
 ## Sketch/Design
