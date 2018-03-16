@@ -27,6 +27,9 @@ An unorganized list of useful stuff.
 * [Vue Examples](https://github.com/vuejs/awesome-vue) - A long list of Vue projects
 <!-- * []() - Description -->
 
+## Plugins
+* [Match Height](https://github.com/liabru/jquery-match-height) - 'a responsive equal heights plugin for jQuery'
+
 ## Animation
 * [GSAP Docs](https://greensock.com/docs) - Greensock Animation Platform
 * [AnimeJS Docs](http://animejs.com/documentation/) - lightweight JS animation library
