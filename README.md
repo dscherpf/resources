@@ -40,12 +40,15 @@ An unorganized list of useful stuff.
 * [Moving Letters](http://tobiasahlin.com/moving-letters/#) - Animate individual letters with AnimeJS
 * [smoothState JS](https://github.com/miguel-perez/smoothState.js?files=1) - Page transitions
 * [slideOut JS](https://slideout.js.org/) - 'A touch slideout navigation menu for your mobile web apps.'
+* [Animista](http://animista.net/play) - CSS Animation tool
+* [Keyframe editor tool](https://keyframes.app/editor/)
 <!-- * []() - Description -->
 
-## WordPress
+## WordPress / CMS
 * [WordPress Docs](https://codex.wordpress.org/) - docs for the CMS
 * [Advanced Custom Fields](https://www.advancedcustomfields.com/) - Suped-up WP posts
 * [Easy Docker + WP setup](https://medium.com/@tatemz/local-wordpress-development-with-docker-3-easy-steps-a7c375366b9) - A quick process that automatically downloads WP into your repo
+* [Ghost](https://ghost.org/) - Open source CMS
 <!-- * []() - Description -->
 
 ## Sketch/Design
@@ -55,15 +58,12 @@ An unorganized list of useful stuff.
 * [Icon Drop ($)](https://iconscout.com/icondrop) - Sketch Icons
 * [Material Design](https://material.io/guidelines/#) - Google's guidelines for design
 * [Materialize CSS](http://materializecss.com) - 'A modern responsive front-end framework based on Material Design'
+* [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path tool
+* [Sketchpad](https://sketch.io/sketchpad/)
 <!-- * []() - Description -->
 
 ## Cool stuff
 * [Animated Login Avatar](https://codepen.io/dsenneff/pen/QajVxO?editors=1010) - animated yeti
 * [playcode.io](https://playcode.io/) - Code simulator built with Vue
 * [Popper JS](https://popper.js.org) - Positioning engine
-<!-- * []() - Description -->
-
-## Lorem ipsum
-* [Classic](https://www.lipsum.com/)
-* [Hipster](https://hipsum.co/?paras=5&type=hipster-centric)
 <!-- * []() - Description -->
